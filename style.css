@@ -30,8 +30,8 @@ p {
 
 
 .header-image {
-  height: 350px;
-  width: 95%;
+  height: 280px;
+  width: 100%;
   background: url(http://stayathome-syllabus.greenfox.academy/week01/assets/first-website-header.png);
   background-size: cover;
   border-top: 5px solid black;
@@ -79,7 +79,7 @@ blockquote {
   font-size: 30px;
   color: white;
   width: 80%;
-  background-color: #808080;
+  background-color: #222;
   padding: 30px;
   margin: auto;
   position: relative;
